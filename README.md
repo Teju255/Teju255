@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tejas pawar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+<h2 align="center"> portfolio <a href = https://github.com/Teju255/Portfolio.git ></a></h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=teju255&label=Profile%20views&color=0e75b6&style=flat" alt="teju255" /> </p>
 
